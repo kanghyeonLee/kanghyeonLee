@@ -31,12 +31,12 @@
 
 ## 🚩 CTF & Wargame
 
-<a href="https://app.hackthebox.com/profile/2031335">
+<a href="https://app.hackthebox.com/users/2031335">
   <img src="https://www.hackthebox.eu/badge/image/2031335" alt="HackTheBox Badge" />
 </a>
 <br><br>
 
-<a href="https://dreamhack.io">
+<a href="https://dreamhack.io/users/86305">
   <img src="https://img.shields.io/badge/Dreamhack-Profile-3182CE?style=for-the-badge&logo=hackthebox&logoColor=white"/>
 </a>
 &nbsp;
@@ -67,26 +67,20 @@
 
 | 구분 | 내용 |
 |------|------|
-| 🏫 학력 | 한동대학교 AI컴퓨터전자공학부 4학년 재학 (GPA 4.26/4.5) |
-| 🪖 병역 | 육군 병장 만기전역 (2022.05 ~ 2023.11) |
-| 📝 TOEIC | 780점 |
-| 🗣️ TOEIC Speaking | IM3 (130점) |
+| 학력 | 한동대학교 AI컴퓨터전자공학부 4학년 재학 (GPA 4.26/4.5) |
+| 병역 | 육군 병장 만기전역 (2022.05 ~ 2023.11) |
+| TOEIC | 780점 |
+| TOEIC Speaking | IM3 (130점) |
 
 ## 🤝 Leadership & Community
 
-- 🛡️ **정보보안 동아리 Ghost 회장** — 해킹 스터디 개설, Hack the Box 스터디 운영, 후배 교육
-- 🌾 **농촌봉사 단체장** (2025) — 강원도 춘천 추곡리 2주간 합숙 봉사, 100만 원 규모 국고사업 기획 운영
-- 🤗 **새내기 섬김이 멘토** — 7명 신입생 대학 적응 지원
-- 📚 **전공 과목 TA** — 학우들의 학습 지원
-- 🏃 **공동체 리더십 훈련 부팀장** — 팀 서브리드 경험
-- 🌍 **해외 봉사** — 몽골 교육 봉사활동 (2019)
+- **정보보안 동아리 Ghost 회장** — 해킹 스터디 개설, Hack the Box 스터디 운영, 후배 교육
+- **농촌봉사 단체장** (2025) — 강원도 춘천 추곡리 2주간 합숙 봉사, 100만 원 규모 국고사업 기획 운영
+- **새내기 섬김이 멘토** — 7명 신입생 대학 적응 지원
+- **전공 과목 TA** — 학우들의 학습 지원
+- **공동체 리더십 훈련 부팀장** — 팀 서브리드 경험
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kanghyeonLee&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanghyeonLee&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0:1a1a2e,100:16213e&height=120&section=footer" />
