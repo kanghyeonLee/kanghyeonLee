@@ -98,8 +98,7 @@ Google Drive·OneDrive·Dropbox를 하나의 로컬 디렉터리처럼 사용할
 
 `Java` `Spring Boot` `Spring Security` `OAuth 2.0` `AES-GCM` `RSA-OAEP`
 
-<details>
-<summary><b>Other Projects</b></summary>
+<b>Other Projects</b>
 
 | 프로젝트 | 설명 | 역할 | 기간 |
 |---------|------|------|------|
